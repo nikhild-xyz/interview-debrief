@@ -1,3 +1,5 @@
+# Role configs contain real names, Slack handles, and doc IDs — populated locally, do not commit
+role-configs.json
+
+# Greenhouse API credentials — never commit
 greenhouse-config.json
-*.local.json
-.DS_Store
