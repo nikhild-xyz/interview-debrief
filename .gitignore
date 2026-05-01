@@ -1,0 +1,3 @@
+greenhouse-config.json
+*.local.json
+.DS_Store
